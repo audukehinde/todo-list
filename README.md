@@ -28,7 +28,9 @@
 
 # 📖 Todo APP <a name="about-project"></a>
 
-Todo List is an application where you write the tasks that needs to be done.
+The Todo-App is a task managing Web-Application to help its users to stay organized for their day to day activities.
+
+The Todo-App can be used for multiple purposes such as shopping lists, taking notes or planning an event.
 
 ## 🛠 Built With <a name="built-with"></a>
 
